@@ -6,4 +6,4 @@
 > 
 > [Server Repository](https://github.com/cbnu-togather/togather-server)
 > 
-> [Document Repository](https://github.com/cbnu-togather/togather-document)
+> [Document Repository](https://github.com/cbnu-togather/document)
